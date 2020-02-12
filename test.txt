@@ -1,5 +1,9 @@
 TODO: Add contents for testfile
+<<<<<<< HEAD
 
 
 This is second change
 
+=======
+hi dudo
+>>>>>>> ffbb933b692d30d3bd539ad03acc40717511cb48
